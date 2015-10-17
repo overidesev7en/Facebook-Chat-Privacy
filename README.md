@@ -1,2 +1,2 @@
-# Facebook-Chat-Privacy-Adblock-list-
+# Facebook Chat Privacy
 Chat privacy for facebook.com (Adblock list)
